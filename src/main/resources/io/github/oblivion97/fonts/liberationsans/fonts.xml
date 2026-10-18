@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Liberation Sans 2.1.5 by Red Hat, Inc. (digitized data by Google). SIL Open Font License 1.1: see
+     META-INF/LICENSE-OFL-1.1.txt. The font files are unmodified. Liberation Sans has the same metrics as Arial, so it
+     is also registered under the family name "Arial" for existing reports. -->
+<fontFamilies>
+    <fontFamily name="Liberation Sans">
+        <normal><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Regular.ttf]]></normal>
+        <bold><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Bold.ttf]]></bold>
+        <italic><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Italic.ttf]]></italic>
+        <boldItalic><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-BoldItalic.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html"><![CDATA['Liberation Sans', Arial, sans-serif]]></export>
+        </exportFonts>
+    </fontFamily>
+    <fontFamily name="Arial">
+        <normal><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Regular.ttf]]></normal>
+        <bold><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Bold.ttf]]></bold>
+        <italic><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-Italic.ttf]]></italic>
+        <boldItalic><![CDATA[io/github/oblivion97/fonts/liberationsans/LiberationSans-BoldItalic.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html"><![CDATA[Arial, 'Liberation Sans', sans-serif]]></export>
+        </exportFonts>
+    </fontFamily>
+</fontFamilies>
